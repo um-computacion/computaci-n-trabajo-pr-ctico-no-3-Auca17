@@ -1,4 +1,4 @@
-from src.exceptions import ingrese_numero, NumeroDebeSerPositivo
+from exceptions import ingrese_numero, NumeroDebeSerPositivo
 
 def main():
     while True:
